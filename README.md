@@ -1,6 +1,7 @@
 # Titanic-Survival-Prediction-Machine-Learning-Project
 
-![image](https://github.com/AabshaarShaikh20/Titanic-Survival-Prediction-Machine-Learning-Project/assets/169930813/20260e15-cee3-49da-9d90-dcb4b7264624)
+![titanicimages](https://github.com/AabshaarShaikh20/Titanic-Survival-Prediction-Machine-Learning-Project/assets/169930813/e7147f1c-c886-4437-93a4-a5aa3db38468)
+
 
 ## Project Overview
 This project aims to predict the survival of passengers on the Titanic using machine learning techniques. By analyzing passenger data such as age, gender, class, and fare, we build models to classify whether a passenger survived or not.
